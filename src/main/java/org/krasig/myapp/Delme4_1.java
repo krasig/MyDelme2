@@ -5,4 +5,5 @@ public class Delme4_1 {
 	//123
 	//asdsdfsdfsd
 /* aaaaaaaaaaa*/
+/* bbbb */
 }
